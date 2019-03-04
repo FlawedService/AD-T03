@@ -21,8 +21,8 @@ tablelist = {"USER": "utilizadores", "CLASSIFICACAO": "classificacao", "CATEGORI
              "SERIE_U": "serie_u", "SERIE": "series", "EPISODIO": "episodios"}
 classification_values = {"M": 1, "MM":2, "S":3, "B":4, "MB":5}
 
-client_id = "2c98ef8c40f0f52003b7"
-client_secret = "a6b5030393835617ea843dba3fc64238c25de0a1"
+client_id = "hidden"
+client_secret = "hidden"
 authorization_base_url = 'https://github.com/login/oauth/authorize'
 token_url = 'https://github.com/login/oauth/access_token'
 
